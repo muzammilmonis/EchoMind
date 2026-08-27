@@ -1,0 +1,2 @@
+Place the CONTENTS of vosk-model-spk-0.4 in this folder before building a fully self-contained APK.
+Expected children include final.ext.raw, mean.vec, mfcc.conf, transform.mat.

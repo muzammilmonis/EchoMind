@@ -1,0 +1,2 @@
+Place the CONTENTS of vosk-model-small-en-us-0.15 in this folder before building a fully self-contained APK.
+Expected children include am/, conf/, graph/, ivector/.
